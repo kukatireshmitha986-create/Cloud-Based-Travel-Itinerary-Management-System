@@ -622,54 +622,31 @@ Create Trip     My Trips
 
 ---
 
-## 📸 Application Screenshots
+# 📸 Application Screenshots
 
-### 🔐 Login / Registration
+## 🏠 Dashboard
 
-The authentication interface allows users to securely register and log in to the application.
+![TravelCloud Dashboard](screenshots/01-dashboard.png)
 
-### 📊 Dashboard
+## 🧳 My Trips
 
-The dashboard provides a centralized overview of travel activity, including trips, upcoming journeys, destinations, budget information, and recent trips.
+![TravelCloud My Trips](screenshots/02-my-trips.png)
 
-### 🧳 My Trips
+## ➕ Create Trip
 
-The My Trips module provides a structured view of all created journeys with options to view, edit, delete, manage itineraries, and manage expenses.
+![TravelCloud Create Trip](screenshots/03-create-trip.png)
 
-### ➕ Create Trip
+## 🗓️ Itinerary
 
-The Create Trip interface allows users to provide complete journey details including destination, dates, travelers, budget, travel type, status, and description.
+![TravelCloud Itinerary](screenshots/04-itinerary.png)
 
-### 🗓️ Itinerary
+## 💳 Expenses
 
-The itinerary module provides day-wise activity planning for each trip.
+![TravelCloud Expenses](screenshots/05-expenses.png)
 
-### 💰 Expenses
+## 🌍 Destinations
 
-The expenses module allows users to record travel spending and monitor the total expenses associated with a trip.
-
-### 🌍 Destinations
-
-The destinations module displays destinations associated with user trips.
-
-### 👤 Profile
-
-The profile module allows users to view and update account information.
-
-> Add your actual screenshots inside the `screenshots` folder and reference them here when needed.
-
-Example screenshot structure:
-
-```text
-screenshots/
-├── dashboard.png
-├── my-trips.png
-├── create-trip.png
-├── itinerary.png
-├── expenses.png
-├── destinations.png
-└── profile.png
-```
+![TravelCloud Destinations](screenshots/06-destinations.png)
 
 ---
 
@@ -938,56 +915,6 @@ https://github.com/kukatireshmitha986-create
 ## 📜 License
 
 This project is developed for academic and educational purposes.
-
----
-
-## ⭐ Project Highlights
-
-- ✅ Full-Stack Cloud Computing Application
-- ✅ React.js Frontend
-- ✅ Node.js Backend
-- ✅ Express.js REST API
-- ✅ SQLite Database
-- ✅ JWT Authentication
-- ✅ bcrypt Password Security
-- ✅ CRUD Operations
-- ✅ Trip Management
-- ✅ Itinerary Management
-- ✅ Expense Tracking
-- ✅ Destination Management
-- ✅ Dashboard Analytics
-- ✅ Profile Management
-- ✅ Responsive User Interface
-- ✅ Three-Tier Architecture
-- ✅ Cloud Deployment Ready
-- ✅ GitHub Ready
-
----
-
-## 🏷️ GitHub Topics
-
-```text
-cloud-computing
-reactjs
-nodejs
-expressjs
-sqlite
-jwt
-rest-api
-full-stack-development
-travel-management
-travel-itinerary
-web-development
-cloud-project
-javascript
-bootstrap
-vite
-database
-authentication
-crud
-three-tier-architecture
-student-project
-```
 
 ---
 
